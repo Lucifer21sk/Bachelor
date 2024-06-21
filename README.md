@@ -12,13 +12,13 @@ The aim of this bachelor thesis is to classify X-ray images of body parts using 
 
 ## Project Structure
 
-The repository is organized as follows:
+The repository is organized as follows in the file bakalarka:
 
 - `code/`: This directory contains the source codes.
 - `data/`: This directory contains the csv and the structure of the images.
 - `images/`: This directory contains the results of train and test on CNN models.
-- `archive/`: This directory will be available after you download the dataset from the link provided on top.
-- Performance.xlsx: This is a excel file that shows the results of different experiments.
+- `archive.zip`: This zip containes the dataset of images from website kaggle that was used to train and test CNN models.
+- `Performance.xlsx`: This is a excel file that shows the results of different experiments.
 
 ## INFO
 This is not application and was not created to be an aplication, this was just a test and analyzation of different augmentations and solving different problems with this dataset. If you want to read about what i did then docx files are the thesis in slovak language and english. 
